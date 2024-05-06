@@ -2,6 +2,7 @@
 
 This FastAPI application is designed to provide an advanced document retrieval system that leverages the power of Faiss (Facebook AI Similarity Search) for efficient and scalable vector search capabilities. The system facilitates the processing and querying of documents to retrieve relevant information quickly and accurately. It utilizes NLP techniques, supported by LangChain and OpenAI's embeddings, to handle complex queries and provide precise answers.
 
+**Please note that the application is designed to handle PDF documents only, and the PDF document used for testing can be found in the repository.**
 ## Key Features:
 
 - **Document Processing:** Upload and process documents to extract and index content, making it searchable.
