@@ -1,0 +1,12 @@
+fastapi
+langchain-openai
+langchain-chroma
+langchain-core
+langchain-community
+langchain
+requests
+python-dotenv
+langid
+uvicorn
+pypdf
+faiss-cpu
